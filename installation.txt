@@ -1,0 +1,5 @@
+pip install opencv-python
+pip install tensorflow
+pip install Pillow
+pip install scikit-learn
+pip install flask
